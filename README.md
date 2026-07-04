@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Android+Engineer+%2F+AI+Explorer+%2F+Indie+Developer;Building+mobile+products+with+care;Turning+ideas+into+shippable+apps" alt="Typing SVG" />
 
-**Android 工程师 / AI 探索者 / 独立开发者**
-
 </div>
 
 ---
