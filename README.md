@@ -29,13 +29,6 @@
   <img src="https://img.shields.io/badge/Codex%20Skills-0D1117?style=flat-square" alt="Codex Skills" />
 </p>
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Magic-Xu&show_icons=true&hide_border=true&title_color=7C3AED&text_color=CBD5E1&icon_color=A78BFA&bg_color=0D1117" alt="MagicXu GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magic-Xu&layout=compact&hide_border=true&title_color=7C3AED&text_color=CBD5E1&bg_color=0D1117" alt="Most used languages" />
-</p>
-
 ## Contact
 
 - Email: [magicalxu666@gmail.com](mailto:magicalxu666@gmail.com)
