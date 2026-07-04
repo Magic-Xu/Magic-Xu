@@ -40,4 +40,3 @@
 ## Contact
 
 - Email: [magicalxu666@gmail.com](mailto:magicalxu666@gmail.com)
-- SnapMosaic X: [@snapmosaic_app](https://x.com/snapmosaic_app)
