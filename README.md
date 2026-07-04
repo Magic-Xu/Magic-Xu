@@ -29,6 +29,14 @@
   <img src="https://img.shields.io/badge/Codex%20Skills-0D1117?style=flat-square" alt="Codex Skills" />
 </p>
 
+## Featured Work
+
+- [SnapMosaic](https://magic-xu.github.io/mosaic-legal/) - Local-first privacy image editor for masking sensitive details before sharing. [Google Play](https://play.google.com/store/apps/details?id=com.magic.snapmosaic) / [X](https://x.com/snapmosaic_app)
+- MeloNest - AI music generation and local import player app, focused on a lightweight local library loop. `Building`
+- [Pulse](https://github.com/Magic-Xu/pulse) - Lightweight Android MVI architecture practice with readable state flow and controlled engineering cost.
+- [App Dev Skills](https://github.com/Magic-Xu/app-dev-skills) - Reusable Codex skills extracted from independent app development workflows.
+- [Personal Site](https://magic-xu.github.io/) - Personal site for projects, writing, and long-term expression.
+
 ## Contact
 
 - Email: [magicalxu666@gmail.com](mailto:magicalxu666@gmail.com)
